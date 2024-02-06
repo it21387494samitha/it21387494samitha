@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samitha Dhananjaya</h1>
 <h3 align="center">Passionate Full-Stack Developer From Sri Lanka</h3>
+<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas">   
 
 - 🌱 I’m currently learning **Spring Boots, Flutter and Machine learning**
 
