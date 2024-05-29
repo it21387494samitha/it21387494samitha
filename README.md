@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samitha Dhananjaya</h1>
 <h3 align="center">Passionate Full-Stack Developer From Sri Lanka</h3>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=it21387494samitha&label=Profile%20views&color=0e75b6&style=flat" alt="it21387494samitha" /> 
+<p align="center">
+  <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
 - 🌱 I’m currently learning **Spring Boots, Flutter, and Machine Learning**
