@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Software Engineering undergraduate & passionate full-stack developer  
+- 🎓 Software Engineering  & passionate full-stack developer  
 - 💻 Experienced in Web, Mobile, and Backend Development  
 - 🌱 Currently learning **Spring Boot, Flutter & Machine Learning**  
 - 🚀 Interested in **scalable systems, clean architecture & real-time applications**  
