@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full-Stack Developer | Sri Lanka 🇱🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+Flutter;Building+Scalable+%26+Elegant+Solutions" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+Flutter;Building+Scalable+%26+Elegant+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
