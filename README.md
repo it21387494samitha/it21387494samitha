@@ -209,18 +209,25 @@ Building production-grade mobile apps with Flutter targeting both iOS and Androi
 <br/><br/>
 
 <!-- Stats + Streak Side by Side -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=it21387494samitha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=3B82F6&icon_color=06B6D4&text_color=E2E8F0&ring_color=8B5CF6" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=it21387494samitha&theme=tokyonight&hide_border=true&background=0a0f1e&ring=3B82F6&fire=F59E0B&currStreakLabel=06B6D4&sideLabels=E2E8F0&dates=94A3B8&stroke=1e293b" />
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=it21387494samitha&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=06B6D4&text_color=E2E8F0" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=it21387494samitha&theme=tokyonight&hide_border=true&ring=3B82F6&fire=F59E0B&currStreakLabel=06B6D4" />
+</div>
 
-<br/><br/>
+<br/>
 
-<!-- Top Languages -->
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it21387494samitha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=3B82F6&text_color=E2E8F0&langs_count=8" />
+<!-- Top Languages and 3D Graph -->
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it21387494samitha&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&text_color=E2E8F0&langs_count=8" />
+  <img width="45%" src="https://github-profile-3d-contrib.vercel.app/api?username=it21387494samitha&theme=dark" />
+</div>
 
-<br/><br/>
+<br/>
 
 <!-- Activity Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=it21387494samitha&bg_color=0a0f1e&color=3B82F6&line=8B5CF6&point=06B6D4&area=true&area_color=3B82F6&hide_border=true&custom_title=Contribution%20Graph" />
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=it21387494samitha&bg_color=0a0f1e&color=3B82F6&line=8B5CF6&point=06B6D4&area=true&area_color=3B82F6&hide_border=true&custom_title=Detailed%20Contribution%20Metrics" />
+</div>
 
 </div>
 
