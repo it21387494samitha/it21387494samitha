@@ -1,18 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:3B82F6,100:8B5CF6&height=220&section=header&text=Samitha%20Dhananjaya&fontColor=E2E8F0&fontSize=42&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20🇱🇰%20Sri%20Lanka&descSize=16&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:3B82F6,100:8B5CF6&height=220&section=header&text=Samitha%20Dhananjaya&fontColor=E2E8F0&fontSize=42&fontAlignY=35&desc=Software%20Engineer%20Intern%20%40%20Dynamics%20Lab%20%7C%20%F0%9F%87%B1%F0%9F%87%B0%20Sri%20Lanka&descSize=16&descAlignY=55&animation=fadeIn" />
 
 <div align="center">
 
 <!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=Building+Scalable+Systems+%E2%9A%99%EF%B8%8F;Full-Stack+Architect+%F0%9F%8F%97%EF%B8%8F;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Flutter;Clean+Code+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=Software+Engineer+Intern+%40+Dynamics+Lab;Full-Stack+Developer+%F0%9F%9A%80;React+%C2%B7+Node.js+%C2%B7+Spring+Boot+%C2%B7+MongoDB;Clean+Code+%C2%B7+REST+APIs+%C2%B7+Cloud+Deployment" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- Hero Badges -->
-<img src="https://img.shields.io/badge/Java_%26_Spring_Boot-●-3B82F6?style=for-the-badge&labelColor=0a0f1e&color=0a0f1e" />
-<img src="https://img.shields.io/badge/React_%26_TypeScript-●-8B5CF6?style=for-the-badge&labelColor=0a0f1e&color=0a0f1e" />
-<img src="https://img.shields.io/badge/Flutter_%26_Mobile-●-06B6D4?style=for-the-badge&labelColor=0a0f1e&color=0a0f1e" />
-<img src="https://img.shields.io/badge/Cloud_%26_DevOps-●-10B981?style=for-the-badge&labelColor=0a0f1e&color=0a0f1e" />
-<img src="https://img.shields.io/badge/Machine_Learning-●-F59E0B?style=for-the-badge&labelColor=0a0f1e&color=0a0f1e" />
+<img src="https://img.shields.io/badge/React_%26_TypeScript-●-3B82F6?style=for-the-badge&labelColor=0a0f1e&color=0a0f1e" />
+<img src="https://img.shields.io/badge/Node.js_%26_Express-●-8B5CF6?style=for-the-badge&labelColor=0a0f1e&color=0a0f1e" />
+<img src="https://img.shields.io/badge/Java_%26_Spring_Boot-●-06B6D4?style=for-the-badge&labelColor=0a0f1e&color=0a0f1e" />
+<img src="https://img.shields.io/badge/MongoDB_%26_SQL-●-10B981?style=for-the-badge&labelColor=0a0f1e&color=0a0f1e" />
+<img src="https://img.shields.io/badge/Azure_%26_Firebase-●-F59E0B?style=for-the-badge&labelColor=0a0f1e&color=0a0f1e" />
 
 <br/><br/>
 
@@ -31,19 +31,58 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" />
 
-I'm a passionate and results-oriented **Software Engineer** from **Sri Lanka** 🇱🇰 with a strong foundation in full-stack development. I thrive on transforming complex problems into simple, beautiful, and intuitive solutions.
+Enthusiastic and dedicated **Software Engineer** from **Sri Lanka** 🇱🇰 with hands-on experience building full-stack applications using **React.js, Node.js, Spring Boot, and MongoDB**. Recently graduated in **Information Technology**, with a strong understanding of software design, RESTful APIs, and cloud deployment.
 
-> *"Code is not just about solving problems; it's about building elegant, scalable solutions that stand the test of time."*
+Proven ability to collaborate in team environments, write clean and maintainable code, and deliver scalable solutions. Passionate about continuous learning, problem-solving, and contributing to innovative software products.
 
 <table>
-<tr><td>🎓</td><td><b>Education</b></td><td>Software Engineering Graduate</td></tr>
-<tr><td>💻</td><td><b>Expertise</b></td><td>Web, Mobile & Backend Development</td></tr>
-<tr><td>🌱</td><td><b>Learning</b></td><td>Spring Boot · Flutter · Machine Learning</td></tr>
-<tr><td>🚀</td><td><b>Interests</b></td><td>Scalable Systems · Clean Architecture · Real-Time Apps</td></tr>
-<tr><td>📫</td><td><b>Contact</b></td><td><a href="mailto:samithadhananjaya68@gmail.com">samithadhananjaya68@gmail.com</a></td></tr>
+<tr><td>💼</td><td><b>Currently</b></td><td>Software Engineer Intern @ Dynamics Lab</td></tr>
+<tr><td>🎓</td><td><b>Education</b></td><td>BSc (Hons) in Information Technology — SLIIT</td></tr>
+<tr><td>💻</td><td><b>Expertise</b></td><td>Full-Stack Web Development · REST APIs</td></tr>
+<tr><td>🌱</td><td><b>Learning</b></td><td>Scalable Architecture · Cloud Deployment</td></tr>
+<tr><td>🌍</td><td><b>Location</b></td><td>Colombo, Sri Lanka</td></tr>
+<tr><td>📫</td><td><b>Contact</b></td><td><a href="mailto:samitha@dynamic-labs.ai">samitha@dynamic-labs.ai</a></td></tr>
+<tr><td>🔗</td><td><b>Portfolio</b></td><td><a href="https://samitha.me/">samitha.me</a></td></tr>
 </table>
 
 <br clear="both"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- EXPERIENCE -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 💼 &nbsp;Professional Experience
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 Dynamics Lab
+**Software Engineer Intern**
+
+<img src="https://img.shields.io/badge/Jan_2026-Present-10B981?style=flat-square&labelColor=0a0f1e" />
+
+📍 Colombo, Sri Lanka
+
+Building and shipping features across the Magiya.lk platform — backend services, frontend, and admin tooling.
+
+</td>
+<td width="50%">
+
+### 📡 Sri Lanka Telecom
+**Full-Stack Engineer Intern**
+
+<img src="https://img.shields.io/badge/Sep_2024-Mar_2025-8B5CF6?style=flat-square&labelColor=0a0f1e" />
+
+📍 Colombo, Sri Lanka
+
+Delivered full-stack solutions including the SLT-Mobitel Seat Reservation System deployed on Azure.
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
@@ -54,19 +93,27 @@ I'm a passionate and results-oriented **Software Engineer** from **Sri Lanka** �
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
 
 <details open>
-<summary><b>🎨 Frontend Development</b></summary>
+<summary><b>💬 Languages</b></summary>
 <br/>
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />
+</p>
+</details>
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br/>
+<p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=fff" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
+<img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=000" />
 </p>
 </details>
 
@@ -74,103 +121,93 @@ I'm a passionate and results-oriented **Software Engineer** from **Sri Lanka** �
 <summary><b>⚙️ Backend Development</b></summary>
 <br/>
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" />
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff" />
-<img src="https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=fff" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
-</p>
-</details>
-
-<details open>
-<summary><b>📱 Mobile Development</b></summary>
-<br/>
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff" />
-<img src="https://img.shields.io/badge/Dart-00B4AB?style=for-the-badge&logo=dart&logoColor=fff" />
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=fff" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
+<img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=fff" />
 </p>
 </details>
 
 <details open>
-<summary><b>🗄️ Databases & Cloud</b></summary>
+<summary><b>🗄️ Databases</b></summary>
 <br/>
 <p>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=fff" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=fff" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" />
 </p>
 </details>
 
 <details open>
-<summary><b>🧰 Tools & Testing</b></summary>
+<summary><b>🧰 Tools & Platforms</b></summary>
 <br/>
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=fff" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff" />
-<img src="https://img.shields.io/badge/Hadoop-FF9A00?style=for-the-badge&logo=apachehadoop&logoColor=fff" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000" />
+<img src="https://img.shields.io/badge/Azure_App_Service-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=fff" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=fff" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff" />
 </p>
 </details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- CURRENT PROJECTS -->
+<!-- PROJECTS -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🚀 &nbsp;Current Projects
+## 🚀 &nbsp;Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🚍 Real-Time Bus Tracker
+### 🎟️ Magiya.lk — Event & Transport Booking
 <img src="https://img.shields.io/badge/Status-Active-10B981?style=flat-square&labelColor=0a0f1e" />
+<img src="https://img.shields.io/badge/Jan_2026-Present-3B82F6?style=flat-square&labelColor=0a0f1e" />
 
-Live GPS tracking system with real-time updates and route optimization using Google Maps API.
+Full-stack contributor across backend services, Livewire/Alpine.js frontend, and UX design. Delivered In-App Notifications, My Tickets, Edit Profile, Reschedule, and the Admin Panel — plus admin-side tooling for bookings, refunds, and platform operations.
 
-`Next.js` `Node.js` `MongoDB` `Maps API`
+`Livewire` `Alpine.js` `Backend Services` `UX`
 
 </td>
 <td width="50%">
 
-### 🎓 LMS & Skill Sharing
+### 🚌 Operator App — Magiya.lk
 <img src="https://img.shields.io/badge/Status-Active-10B981?style=flat-square&labelColor=0a0f1e" />
+<img src="https://img.shields.io/badge/Jan_2026-Present-3B82F6?style=flat-square&labelColor=0a0f1e" />
 
-A full-featured learning management platform for skill sharing with Spring Boot backend.
+Companion app for transport/event operators to manage bookings and trips. Built real-time passenger tracking, ticket editing for operator-side bookings, and audit logging for accountability, alongside UI consistency improvements.
 
-`Spring Boot` `React` `MongoDB`
+`Real-Time Tracking` `Audit Logging` `Full-Stack`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🏥 Healthcare Research System
+### 💺 Seat Reservation System — SLT-Mobitel
 <img src="https://img.shields.io/badge/Status-Completed-F59E0B?style=flat-square&labelColor=0a0f1e" />
+<img src="https://img.shields.io/badge/Oct_2024-Jan_2025-8B5CF6?style=flat-square&labelColor=0a0f1e" />
 
-Intelligent exercise recommendation engine powered by personalized health data analysis.
+Seat booking platform for the SLT-Mobitel internship program. Admins manage seats, programs, and bookings; interns reserve seats and manage reservations. Google login + calendar-based booking, deployed on Azure Web App Service, with test cases and SonarQube code-quality checks.
 
-`ML` `Java` `React`
+`MERN Stack` `Azure` `Google OAuth` `SonarQube`
 
 </td>
 <td width="50%">
 
-### 📱 Cross-Platform Mobile Apps
-<img src="https://img.shields.io/badge/Status-Active-10B981?style=flat-square&labelColor=0a0f1e" />
+### 🏃 Life Style Management System
+<img src="https://img.shields.io/badge/Status-Completed-F59E0B?style=flat-square&labelColor=0a0f1e" />
+<img src="https://img.shields.io/badge/May_2024-Jun_2025-8B5CF6?style=flat-square&labelColor=0a0f1e" />
 
-Building production-grade mobile apps with Flutter targeting both iOS and Android platforms.
+Undergraduate research project — a mobile app helping young adults manage daily tasks and monitor health, disease risk, and stress. Built the health assessment engine with personalized exercise scheduling driven by BMI and real-time calorie burn tracking.
 
-`Flutter` `Dart` `Firebase`
+`Python` `Flutter` `Research` `Team Project`
 
 </td>
 </tr>
@@ -179,18 +216,47 @@ Building production-grade mobile apps with Flutter targeting both iOS and Androi
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- ACHIEVEMENTS -->
+<!-- EDUCATION -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🏆 &nbsp;Achievements
+## 🎓 &nbsp;Education
 
 <table>
-<tr><td>🥇</td><td>Deployed production-ready apps using <b>MERN Stack</b> & <b>Spring Boot</b></td></tr>
-<tr><td>☁️</td><td>Hands-on cloud deployment experience with <b>Azure App Service</b></td></tr>
-<tr><td>🔐</td><td>Implemented enterprise-grade <b>JWT & OAuth 2.0</b> authentication</td></tr>
-<tr><td>🧪</td><td>API testing with <b>Postman</b> and test automation using <b>Selenium</b></td></tr>
-<tr><td>📊</td><td>Specialized <b>Healthcare Research System</b> with ML-driven recommendations</td></tr>
-<tr><td>📱</td><td>Cross-platform mobile apps with <b>Flutter</b> and native Android via <b>Kotlin</b></td></tr>
+<tr>
+<td>🎓</td>
+<td><b>BSc (Hons) in Information Technology</b><br/>
+<i>Sri Lanka Institute of Information Technology (SLIIT)</i> — Malabe, Sri Lanka<br/>
+<sub>Jun 2021 – Jul 2025 · Graduated July 2025</sub></td>
+</tr>
+<tr>
+<td>📘</td>
+<td><b>G.C.E Advanced Level</b> — Physical Science Stream (Maths)<br/>
+<i>MR/Narandeniya Central College</i> — Kamburupitiya, Matara<br/>
+<sub>Jan 2017 – Aug 2019</sub></td>
+</tr>
+<tr>
+<td>📗</td>
+<td><b>G.C.E Ordinary Level</b><br/>
+<i>MR/Narandeniya Central College</i> — Kamburupitiya, Matara<br/>
+<sub>Jan 2011 – Dec 2016</sub></td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- HIGHLIGHTS -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🏆 &nbsp;Highlights
+
+<table>
+<tr><td>🥇</td><td>Shipped production features on <b>Magiya.lk</b> — notifications, ticketing, rescheduling & admin panel</td></tr>
+<tr><td>📡</td><td>Built real-time <b>passenger tracking</b> and audit logging for the Magiya Operator App</td></tr>
+<tr><td>☁️</td><td>Deployed a <b>MERN</b> booking system to <b>Azure Web App Service</b> at SLT-Mobitel</td></tr>
+<tr><td>🔐</td><td>Integrated <b>Google OAuth</b> login and calendar-based booking flows</td></tr>
+<tr><td>🧪</td><td>Wrote test cases for booking & admin flows; enforced code quality with <b>SonarQube</b></td></tr>
+<tr><td>📊</td><td>Research project on <b>BMI-driven health assessment</b> with real-time calorie burn tracking</td></tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
@@ -241,11 +307,11 @@ Building production-grade mobile apps with Flutter targeting both iOS and Androi
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/15+-Technologies-3B82F6?style=for-the-badge&labelColor=0a0f1e" />
-<img src="https://img.shields.io/badge/4+-Live_Projects-8B5CF6?style=for-the-badge&labelColor=0a0f1e" />
-<img src="https://img.shields.io/badge/3-Platforms-06B6D4?style=for-the-badge&labelColor=0a0f1e" />
-<img src="https://img.shields.io/badge/7+-Languages-10B981?style=for-the-badge&labelColor=0a0f1e" />
-<img src="https://img.shields.io/badge/2-Cloud_Platforms-F59E0B?style=for-the-badge&labelColor=0a0f1e" />
+<img src="https://img.shields.io/badge/2-Internships-3B82F6?style=for-the-badge&labelColor=0a0f1e" />
+<img src="https://img.shields.io/badge/4-Major_Projects-8B5CF6?style=for-the-badge&labelColor=0a0f1e" />
+<img src="https://img.shields.io/badge/4-Languages-06B6D4?style=for-the-badge&labelColor=0a0f1e" />
+<img src="https://img.shields.io/badge/3-Databases-10B981?style=for-the-badge&labelColor=0a0f1e" />
+<img src="https://img.shields.io/badge/BSc_(Hons)-SLIIT_2025-F59E0B?style=for-the-badge&labelColor=0a0f1e" />
 <img src="https://img.shields.io/badge/∞-Curiosity-EC4899?style=for-the-badge&labelColor=0a0f1e" />
 
 </div>
@@ -260,16 +326,16 @@ Building production-grade mobile apps with Flutter targeting both iOS and Androi
 
 <div align="center">
 
-<a href="https://linkedin.com/in/samitha-dhananjaya" target="_blank">
+<a href="https://samitha.me/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=fff" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/samitha-dhananjaya-039823273" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" />
 </a>
 &nbsp;
-<a href="mailto:samithadhananjaya68@gmail.com">
+<a href="mailto:samitha@dynamic-labs.ai">
 <img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=fff" />
-</a>
-&nbsp;
-<a href="https://fb.com/samitha.abeythunga" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=fff" />
 </a>
 
 </div>
