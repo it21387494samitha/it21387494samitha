@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:3B82F6,100:8B5CF6&height=220&section=header&text=Samitha%20Dhananjaya&fontColor=E2E8F0&fontSize=42&fontAlignY=35&desc=Software%20Engineer%20Intern%20%40%20Dynamics%20Lab%20%7C%20%F0%9F%87%B1%F0%9F%87%B0%20Sri%20Lanka&descSize=16&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:3B82F6,100:8B5CF6&height=220&section=header&text=Samitha%20Dhananjaya&fontColor=E2E8F0&fontSize=42&fontAlignY=35&desc=Associate%20Software%20Engineer%20%40%20Dynamics%20Lab%20%7C%20%F0%9F%87%B1%F0%9F%87%B0%20Sri%20Lanka&descSize=16&descAlignY=55&animation=fadeIn" />
 
 <div align="center">
 
 <!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=Software+Engineer+Intern+%40+Dynamics+Lab;Full-Stack+Developer+%F0%9F%9A%80;React+%C2%B7+Node.js+%C2%B7+Spring+Boot+%C2%B7+MongoDB;Clean+Code+%C2%B7+REST+APIs+%C2%B7+Cloud+Deployment" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=Associate+Software+Engineer+%40+Dynamics+Lab;Full-Stack+Developer+%F0%9F%9A%80;React+%C2%B7+Node.js+%C2%B7+Spring+Boot+%C2%B7+MongoDB;Clean+Code+%C2%B7+REST+APIs+%C2%B7+Cloud+Deployment" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -36,7 +36,7 @@ Enthusiastic and dedicated **Software Engineer** from **Sri Lanka** 🇱🇰 wit
 Proven ability to collaborate in team environments, write clean and maintainable code, and deliver scalable solutions. Passionate about continuous learning, problem-solving, and contributing to innovative software products.
 
 <table>
-<tr><td>💼</td><td><b>Currently</b></td><td>Software Engineer Intern @ Dynamics Lab</td></tr>
+<tr><td>💼</td><td><b>Currently</b></td><td>Associate Software Engineer @ Dynamics Lab</td></tr>
 <tr><td>🎓</td><td><b>Education</b></td><td>BSc (Hons) in Information Technology — SLIIT</td></tr>
 <tr><td>💻</td><td><b>Expertise</b></td><td>Full-Stack Web Development · REST APIs</td></tr>
 <tr><td>🌱</td><td><b>Learning</b></td><td>Scalable Architecture · Cloud Deployment</td></tr>
@@ -60,13 +60,17 @@ Proven ability to collaborate in team environments, write clean and maintainable
 <td width="50%">
 
 ### 🏢 Dynamics Lab
+**Associate Software Engineer**
+
+<img src="https://img.shields.io/badge/Jul_2026-Present-10B981?style=flat-square&labelColor=0a0f1e" />
+
 **Software Engineer Intern**
 
-<img src="https://img.shields.io/badge/Jan_2026-Present-10B981?style=flat-square&labelColor=0a0f1e" />
+<img src="https://img.shields.io/badge/Jan_2026-Jun_2026-64748B?style=flat-square&labelColor=0a0f1e" />
 
 📍 Colombo, Sri Lanka
 
-Building and shipping features across the Magiya.lk platform — backend services, frontend, and admin tooling.
+Building and shipping features across the Magiya.lk platform — backend services, frontend, and admin tooling. Promoted to Associate Software Engineer after a six-month internship.
 
 </td>
 <td width="50%">
